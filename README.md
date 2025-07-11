@@ -4,23 +4,23 @@ This project predicts food delivery time based on various factors like distance,
 
 ## Datasets
 
-The dataset used in this project is Food_Delivery_Time_Prediction.csv:
+This project uses the `Food_Delivery_Time_Prediction.csv` dataset, which includes the following columns:
 
-Order_ID
-Customer_Location
-Restaurant_Location
-Distance: Distance 
-Weather_Conditions
-Traffic_Conditions
-Delivery_Person_Experience
-Order_Priority
-Order_Time
-Vehicle_Type
-Restaurant_Rating
-Customer_Rating
-Delivery_Time
-Order_Cost
-Tip_Amount
+* `Order_ID`
+* `Customer_Location`
+* `Restaurant_Location`
+* `Distance`
+* `Weather_Conditions`
+* `Traffic_Conditions`
+* `Delivery_Person_Experience`
+* `Order_Priority`
+* `Order_Time`
+* `Vehicle_Type`
+* `Restaurant_Rating`
+* `Customer_Rating`
+* `Delivery_Time`
+* `Order_Cost`
+* `Tip_Amount`
 
 ### Prerequisites
 
