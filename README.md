@@ -8,9 +8,7 @@ The dataset used in this project is Food_Delivery_Time_Prediction.csv. It contai
 Order_ID: Unique ID for each order.
 
 Customer_Location: Latitude and longitude of the customer.
-
 Restaurant_Location: Latitude and longitude of the restaurant.
-
 Distance: Distance between the restaurant and the customer.
 Weather_Conditions: Weather conditions at the time of the order.
 Traffic_Conditions: Traffic conditions at the time of the order.
